@@ -9,6 +9,9 @@ public class ThreadA extends Thread {
         this.lockA = lockA;
     }
 
+
+
+
     @Override
     public void run() {
         //while (true) {
